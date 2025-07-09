@@ -57,3 +57,14 @@ php artisan migrate
 php artisan db:seed  # Includes admin & user
 
 php artisan serve
+
+
+cd frontend
+npm install
+npm run dev
+
+
+🙋‍♂️ Author
+Inus Daimary
+📧 inusdaimary@gmail.com
+🔒 Repo: Private GitHub Repository
