@@ -1,0 +1,25 @@
+@media print {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    width: 100%;
+    padding: 0;
+  }
+
+  .btn, nav, footer {
+    display: none !important;
+  }
+
+  .table th, .table td {
+    border: 1px solid #000 !important;
+  }
+
+  .no-border {
+  border: none !important;
+}
+
+}
+
