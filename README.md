@@ -67,4 +67,4 @@ npm run dev
 🙋‍♂️ Author
 Inus Daimary
 📧 inusdaimary@gmail.com
-🔒 Repo: Private GitHub Repository
+
